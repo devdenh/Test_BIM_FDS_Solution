@@ -12,7 +12,7 @@
 Решение:
 -------
 
-revit_base_file.rvt - исходный файл проекта Revit
-solution1.xml - геометрия объекта через bgxml
-solution2.txt - координаты в формате json моих 3х добавленных объектов (element.getlocation) через Dynamo
-logic.dyn - логика выбора добавленных элементов через семейство
+1. - revit_base_file.rvt - исходный файл проекта Revit
+   - solution1.xml - геометрия объекта через bgxml
+2. - solution2.txt - координаты в формате json моих 3х добавленных объектов (element.getlocation) через Dynamo
+   - logic.dyn - логика выбора добавленных элементов через семейство
