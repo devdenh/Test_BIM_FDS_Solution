@@ -19,3 +19,5 @@
 
 2. - solution2.txt - координаты в формате json моих 3х добавленных объектов (element.getlocation) через Dynamo
    - logic.dyn - логика выбора добавленных элементов через семейство
+
+![img](https://github.com/devdenh/Test_BIM_FDS_Solution/blob/main/solution2.png)
